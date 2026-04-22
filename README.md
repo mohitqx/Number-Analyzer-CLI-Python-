@@ -59,30 +59,30 @@ This project helped reinforce:
 
 ## Output
 
-Enter value (type 'stop' to terminate): 1
-Odd
-Enter value (type 'stop' to terminate): 24
-Even
-Enter value (type 'stop' to terminate): 22
-Even
-Enter value (type 'stop' to terminate): mine
-Invalid input. Please enter a valid number.
-Enter value (type 'stop' to terminate): -5
-Odd
-Enter value (type 'stop' to terminate): 0
-Even
-Enter value (type 'stop' to terminate): stop
-
---- Program Terminated ---
-All numbers      : [1, 24, 22, -5, 0]
-Even numbers     : [24, 22, 0]
-Odd numbers      : [1, -5]
-Even count       : 3
-Odd count        : 2
-Total sum        : 42
-Total entries    : 5
-Largest number   : 24
-Smallest number  : -5
+* Enter value (type 'stop' to terminate): 1
+* Odd
+* Enter value (type 'stop' to terminate): 24
+* Even
+* Enter value (type 'stop' to terminate): 22
+* Even
+* Enter value (type 'stop' to terminate): mine
+* Invalid input. Please enter a valid number.
+* Enter value (type 'stop' to terminate): -5
+* Odd
+* Enter value (type 'stop' to terminate): 0
+* Even
+* Enter value (type 'stop' to terminate): stop
+* 
+* --- Program Terminated ---
+* All numbers      : [1, 24, 22, -5, 0]
+* Even numbers     : [24, 22, 0]
+* Odd numbers      : [1, -5]
+* Even count       : 3
+* Odd count        : 2
+* Total sum        : 42
+* Total entries    : 5
+* Largest number   : 24
+* Smallest number  : -5
 
 ---
 
